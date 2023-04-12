@@ -10,7 +10,7 @@ Bonjour ! Je suis Maxime, alias @MaxCtn, et je suis ravi de vous accueillir sur 
 
 Me suivre sur les réseaux sociaux
 
-    LinkedIn
+    LinkedIn: https://www.linkedin.com/in/maxime-contino-788040251
 
 🔗 N'hésitez pas à explorer mes projets et à me faire part de vos commentaires, suggestions ou questions. Bonne visite !
 <!--
