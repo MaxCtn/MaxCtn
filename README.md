@@ -1,6 +1,6 @@
 <!-- Bannière animée (typing SVG) -->
 
-<h1 align="center">Salut, moi c’est Maxime — @MaxCtn</h1>
+<h1 align="center">@MaxCtn</h1>
 
 <p align="center">
   <em>Élève en Master 1 Data & IA, actuellement en alternance <strong>chez <u>Nom de l'entreprise</u></strong></em><br/>
