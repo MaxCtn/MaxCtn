@@ -69,4 +69,3 @@ Je préfère centraliser ici sur GitHub (issues/discussions).
 
 ---
 
-<sub>📝 Note rapide : remplace <u>Nom de l'entreprise</u> ci-dessus par le nom réel de ton alternance.</sub>
