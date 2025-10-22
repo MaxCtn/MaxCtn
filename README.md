@@ -3,8 +3,8 @@
 <h1 align="center">@MaxCtn</h1>
 
 <p align="center">
-  <em>Élève en Master 1 Data & IA, actuellement en alternance <strong>chez <u>Nom de l'entreprise</u></strong></em><br/>
-  <em>Développeur full-stack • Data/IA • Montage vidéo • Esprit produit</em>
+  <em>Élève en Master 1 Data & IA, actuellement en alternance <strong></u></strong></em><br/>
+  <em>Développeur full-stack • Data/IA • Montage vidéo </em>
 </p>
 
 <p align="center">
