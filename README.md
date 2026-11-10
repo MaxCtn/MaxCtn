@@ -21,6 +21,7 @@ Je construis des applications web et mobiles, de la base de données à l'interf
 
 ## Projets publics
 
+- [pdf-en-texte](https://github.com/MaxCtn/pdf-en-texte) : le texte de centaines de PDF et d'images dans un seul fichier, pages scannées comprises, avec un OCR qui tourne dans le navigateur sans rien envoyer ([essayer](https://pdf-en-texte.vercel.app))
 - [maxbar](https://github.com/MaxCtn/maxbar) : une barre des tâches de remplacement pour Windows 11, écrite en Rust avec Tauri 2, avec dock, îlot dynamique, zone de notification, météo et quota Claude Code
 - [moteur-combat-pokemon](https://github.com/MaxCtn/moteur-combat-pokemon) : un moteur de combat façon Pokémon en Node.js, avec tests unitaires (Jest), d'intégration (Supertest) et de bout en bout (Cypress), projet d'école à Ynov
 
