@@ -1,71 +1,30 @@
-<!-- Bannière animée (typing SVG) -->
-
-<h1 align="center">@MaxCtn</h1>
+<h1 align="center">Maxime Contino</h1>
 
 <p align="center">
-  <em>Élève en Master 1 Data & IA, actuellement en alternance <strong></u></strong></em><br/>
-  <em>Développeur full-stack • Data/IA • Montage vidéo </em>
+  Développeur full-stack en alternance · Master 2 Data & IA à Ynov<br>
+  <a href="https://nuvix.fr">nuvix.fr</a>
 </p>
 
 <p align="center">
-  <img alt="Badge M1" src="https://img.shields.io/badge/Master%201-Data%20%26%20IA-0a0a0a?style=for-the-badge">
-  <img alt="Badge Alternance" src="https://img.shields.io/badge/Alternance-Active-0a0a0a?style=for-the-badge">
-  <img alt="Badge Full-Stack" src="https://img.shields.io/badge/Stack-Full%E2%80%91Stack-0a0a0a?style=for-the-badge">
-  <img alt="Badge Polyvalent" src="https://img.shields.io/badge/Polyvalent-Dev%20%E2%80%A2%20Data%20%E2%80%A2%20Vid%C3%A9o-0a0a0a?style=for-the-badge">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,postgres,prisma,supabase,python,rust,tauri,docker,vercel,figma&perline=13" alt="TypeScript, Next.js, React, Tailwind, Postgres, Prisma, Supabase, Python, Rust, Tauri, Docker, Vercel, Figma">
 </p>
 
----
+Je construis des applications web de la base de données à l'interface. En alternance, je développe des outils métier utilisés tous les jours dans une entreprise de travaux publics. Avec Nuvix, je réalise des sites et des boutiques en ligne pour des clients.
 
-### 🧭 À propos
-- 🎓 **Élève Data & IA (M1)** — solide base en statistiques, Python et pipelines de données.
-- 💻 **Full-stack** — je conçois du front (React/Next.js) au back (Node/PHP) avec une attention UX/UI.
-- 🧠 **Data/IA** — préparation de données, features, modèles classiques et exploration LLM.
-- 🎬 **Montage vidéo** — création de contenus et motion léger pour présenter produits et features.
-- 🛠️ **Polyvalent** — je passe du prototype à la prod, du script data au composant UI.
+## Ce que je fais
 
----
+- **Applications métier** : Next.js, TypeScript et Postgres, testées avec Vitest et Playwright
+- **Sites clients** : vitrines et e-commerce avec paiement Stripe, en ligne sur Vercel
+- **Data et IA** : Python, préparation de données, modèles de langage intégrés aux outils pour extraire et résumer
+- **Mobile et bureau** : Capacitor pour iOS, Rust et Tauri pour les apps de bureau
+- **Vidéo** : montage et animations pour présenter des produits
 
-### 🧰 Outils & techno (sélection)
-<!-- Ajoute/enlève librement -->
-**Langages** : Python, TypeScript/JavaScript, SQL  
-**Front** : React, Next.js, Vite, Tailwind  
-**Back** : Node.js (Express), PHP (API), REST  
-**Data/IA** : Pandas, NumPy, scikit-learn, notebooks  
-**DB/Cloud** : Postgres, Supabase, Redis (Upstash), Vercel, Railway  
-**Vidéo** : DaVinci Resolve / Premiere Pro
+## Projet public
 
----
+- [maxbar](https://github.com/MaxCtn/maxbar) : une barre des tâches de remplacement pour Windows 11, écrite en Rust avec Tauri 2, avec dock, îlot dynamique, zone de notification, météo et quota Claude Code
 
-### 🔭 En ce moment
-- Mise en place de **pipelines data** et d’API propres.
-- Expérimentations **ML/IA** orientées produit (features utiles > modèles obscurs).
-- Craft **UI/UX** performantes et accessibles.
+La plupart de mon code est dans des dépôts privés, parce qu'il appartient à mes clients.
 
----
+## Me contacter
 
-### 📊 Un peu de stats GitHub
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaxCtn&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="Stats GitHub"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=MaxCtn&hide_border=true&theme=transparent" alt="Streak GitHub"/>
-</p>
-
-<!-- Animation “snake” optionnelle : nécessite un workflow GitHub Actions (à activer plus tard)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
--->
-
----
-
-### 🚀 Projets à explorer
-- **Data & IA** : notebooks de prétraitement, features et modèles prêt-à-servir.
-- **Web** : apps React/Next.js full-stack orientées cas réels (auth, API, perf, UX).
-
----
-
-### 🤝 Contact
-Je préfère centraliser ici sur GitHub (issues/discussions).  
-<!-- Pas d’e-mail, pas de LinkedIn comme demandé -->
-
----
-
+Par le site [nuvix.fr](https://nuvix.fr), ou en ouvrant une issue sur un de mes dépôts publics.
